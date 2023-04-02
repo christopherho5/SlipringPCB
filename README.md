@@ -2,7 +2,7 @@
 
 This is a PCB used to provide hotswapping capabilities when used with a slipring. A slipring allows unrestricted movement on a rotating gimbal. Here, a PCB is used to gather all signal and power lines as one giant plug that snap-in to a header, which is then distributed to their respective electronics.<br>
 <br>
-This PCB is made for a 24V, 10A system, excluding communication, which functions at a much lower voltage (~5V)<br>
+**This PCB is made for a 24V, 10A system**, excluding communication, which functions at a much lower voltage (~5V)<br>
 <br>
 Part Specifications:<br>
 1 x 13Pin Phoenix Contact Connector + Header<br>
