@@ -12,10 +12,10 @@ Part Specifications:<br>
 2 x XT30PW-M<br>
 
 _PCB 3D Model_
-![image](https://user-images.githubusercontent.com/128961461/229330671-9a91bcf3-f0a5-49d7-8393-509b20c4657a.png)
+![image](https://user-images.githubusercontent.com/128961461/233274793-53ba1606-9d49-4f12-b19a-135acbf21d80.png)
 
 _PCB Layout_
-![image](https://user-images.githubusercontent.com/128961461/229330598-dd265d90-fbac-4161-a0c1-2e3591d550bd.png)
+![image](https://user-images.githubusercontent.com/128961461/233274617-6ff75f54-1710-49c0-bdd1-0e3a80980289.png)
 
 _PCB Schematic_
 ![image](https://user-images.githubusercontent.com/128961461/229330684-36911eba-41a6-491c-9095-bd6fd855958b.png)
