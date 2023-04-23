@@ -19,3 +19,6 @@ _PCB Layout_
 
 _PCB Schematic_
 ![image](https://user-images.githubusercontent.com/128961461/229330684-36911eba-41a6-491c-9095-bd6fd855958b.png)
+
+_Final Product!_
+![20230421_213902](https://user-images.githubusercontent.com/128961461/233820540-7998eafa-0e0e-436d-80a8-e605905f0bc1.jpg)
