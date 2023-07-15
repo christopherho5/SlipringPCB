@@ -11,14 +11,11 @@ Part Specifications:<br>
 1 x 2PIN JST-GH (CAN BUS)<br>
 2 x XT30PW-M<br>
 
-_PCB 3D Model_
-![image](https://user-images.githubusercontent.com/128961461/233274793-53ba1606-9d49-4f12-b19a-135acbf21d80.png)
-
-_PCB Layout_
-![image](https://user-images.githubusercontent.com/128961461/233274617-6ff75f54-1710-49c0-bdd1-0e3a80980289.png)
-
-_PCB Schematic_
-![image](https://user-images.githubusercontent.com/128961461/229330684-36911eba-41a6-491c-9095-bd6fd855958b.png)
-
 _Final Product!_
 ![20230421_213902](https://user-images.githubusercontent.com/128961461/233820540-7998eafa-0e0e-436d-80a8-e605905f0bc1.jpg)
+
+_UPDATED VERSION: Increased connections_
+![20230502_162020](https://github.com/christopherho5/SlipringPCB/assets/128961461/1d60ebbe-72ba-4c25-af18-d2b741429996)
+
+_PCB Schematic_
+![image](https://github.com/christopherho5/SlipringPCB/assets/128961461/d2f81338-4c54-4b2f-86f5-85a619d911a1)
