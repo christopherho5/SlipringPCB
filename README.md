@@ -14,7 +14,7 @@ Part Specifications:<br>
 _UPDATED VERSION: Increased connections_
 ![20230502_162020](https://github.com/christopherho5/SlipringPCB/assets/128961461/1d60ebbe-72ba-4c25-af18-d2b741429996)
 
-_Final Product!_
+_V1 PCB_
 ![20230421_213902](https://user-images.githubusercontent.com/128961461/233820540-7998eafa-0e0e-436d-80a8-e605905f0bc1.jpg)
 
 _PCB Schematic_
